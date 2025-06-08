@@ -36,7 +36,7 @@ If you prefer to run Pixiu Admin locally, follow these steps:
     After starting, you can access the service via:**
 
     ```bash
-    http://localhost:8081
+    http://localhost:8080
     ```
 
 ## operation
